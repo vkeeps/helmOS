@@ -3,12 +3,22 @@ entries:
   unnatural-go:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-05T14:34:14.057109+08:00"
+    created: "2022-12-05T16:23:28.792331+08:00"
     description: A Helm chart for Kubernetes
-    digest: c760101493e375d2fa2d5434de0daa646034a346c3c0a0362f036eaf71f9b148
+    digest: 0243b2a254ac2e53202e15e5f715df63640d7ebd011e3c688ef276e2cc5eca0c
+    name: unnatural-go
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/vkeeps/helmOS/main/charts/repo/unnatural/unnatural-go-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-05T16:23:28.790343+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 18b688c81210e35804ddf4fca6b0777311b373829298c72899ae48fde73e6b2b
     name: unnatural-go
     type: application
     urls:
     - https://raw.githubusercontent.com/vkeeps/helmOS/main/charts/repo/unnatural/unnatural-go-1.0.0.tgz
     version: 1.0.0
-generated: "2022-12-05T14:34:14.056306+08:00"
+generated: "2022-12-05T16:23:28.787597+08:00"
